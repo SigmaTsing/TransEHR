@@ -1,0 +1,15 @@
+*.npz
+log/*
+trained/*
+data/mimiciv/*
+data/physionet/*
+*__pycache__/
+pretrained/*
+*.csv
+personal.md
+tmp.py
+*.png
+tmp*
+*.npy
+data/physionet
+data/mimiciii
